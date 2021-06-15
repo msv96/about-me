@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @msv96
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Full Stack Developer
-- 📫 How to reach me msrini1100@gmail.com
